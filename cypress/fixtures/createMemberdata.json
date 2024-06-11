@@ -1,0 +1,157 @@
+{
+    "memberDetails":{
+    "tmName":"Ambasitor3",
+    "designation":"Lawyer",
+    "currencyRate":"IndianRupee(INR)",
+    "defaultRate":"900",
+    "email":"mawabam16132@grassdev.com",
+    "confirmemail":"mawabam16132@grassdev.com",
+    "nameAssert":"Ambasitor3"
+    
+},
+
+    "selectDepartments": {
+    "Dept1": "Public Department",
+    "Dept2": "People department"
+    
+},
+
+    "memberDetails1":{
+    "tmName1":"Wosoben",
+    "designation1":"Auditor",
+    "currencyRate1":"Euro(EUR)",
+    "defaultRate1":"100",
+    "email1":"wosoben375@giratex.com",
+    "confirmemail1":"wosoben375@giratex.com",
+    "nameAssert1":"Wosoben"
+},
+
+    "memberDetails2":{
+    "tmName2":"Hosiwow",
+    "designation2":"Auditor",
+    "currencyRate2":"USDollar(USD)",
+    "defaultRate2":"100",
+    "email2":"yalepe4319@bitofee.com",
+    "confirmemail2":"yalepe4319@bitofee.com"
+       
+},
+    "memberDetails3":{
+    "tmName":"Hosiwow",
+    "designation":"Auditor",
+    "currencyRate":"USDollar(USD)",
+    "defaultRate":"100",
+    "email":"yalepe4319@bitofee.com",
+    "confirmemail":"yalepe4319@bitofee.com"
+   
+},
+    "memberDetails4":{
+    "tmName":"Hosiwow",
+    "designation":"Auditor",
+    "currencyRate":"USDollar(USD)",
+    "defaultRate":"100",
+    "email":"yalepe4319@bitofee.com",
+    "confirmemail":"yalepe4319@bitofee.com"
+   
+},
+    "memberDetails5":{
+    "tmName":"Hosiwow1",
+    "designation":"Auditor",
+    "currencyRate":"USDollar(USD)",
+    "defaultRate":"100",
+    "email":"yalepe43191@bitofee.com",
+    "confirmemail":"yalepe43191@bitofee.com"
+   
+},
+
+     "memberDetails6":{
+    "tmName":"Hesitak",
+    "designation":"Auditor",
+    "currencyRate":"USDollar(USD)",
+    "defaultRate":"100",
+    "email":"halepe43191@bitofee.com",
+    "confirmemail":"halepe43191@bitofee.com"
+   
+},
+    "memberDetails7":{
+    "tmName":"Hesitak1",
+    "designation":"Auditor",
+    "currencyRate":"USDollar(USD)",
+    "defaultRate":"100",
+    "email":"hesitak43191@bitofee.com",
+    "confirmemail":"hesitak43191@bitofee.com"
+   
+},
+     "memberDetails8":{
+    "tmName":"Hesitak2",
+    "designation":"Auditor",
+    "currencyRate":"USDollar(USD)",
+    "defaultRate":"500",
+    "email":"hesitak43191@bitofee.com",
+    "confirmemail":"hesitak43191@bitofee.com"
+},
+    "memberDetails10":{
+    "tmName":"Group Head",
+    "designation":"Auditor",
+    "currencyRate":"USDollar(USD)",
+    "defaultRate":"500",
+    "email":"xibaw68656@vikinoko.com",
+    "confirmemail":"xibaw68656@vikinoko.com"
+},
+    "memberDetails11":{
+    "tmName":"Group Head",
+    "designation":"Auditor",
+    "currencyRate":"USDollar(USD)",
+    "defaultRate":"500",
+    "email":"corpgrouphead@gmail.com",
+    "confirmemail":"corpgrouphead12@gmail.com"
+},
+    "memberDetails12":{
+    "tmName":"Makesh",
+    "designation":"Auditor",
+    "currencyRate":"USDollar(USD)",
+    "defaultRate":"500",
+    "email":"yalepe4319@bitofee.com",
+    "confirmemail":"yalepe4319@bitofee.com",
+    "departmentName":"Public Department",
+    "assertDept":"Public Department"
+},
+    "memberDetails13":{
+    "tmName":"Makesh",
+    "designation":"Auditor",
+    "currencyRate":"USDollar(USD)",
+    "defaultRate":"500",
+    "email":"yalepe43192@bitofee.com",
+    "confirmemail":"yalepe43192@bitofee.com",
+    "departmentName":"Public Department"
+    
+},
+    "selectDepartments1": {
+    "Dept1": "Public Department",
+    "Dept2": "People department"    
+},
+    "memberDetails14":{
+    "tmName":"Jane",
+    "designation":"Auditor",
+    "currencyRate":"USDollar(USD)",
+    "defaultRate":"500",
+    "email":"palepe43192@bitofee.com",
+    "confirmemail":"palepe43192@bitofee.com"
+},
+    "memberDetails15":{
+    "tmName":"Jenny",
+    "designation":"Auditor",
+    "currencyRate":"USDollar(USD)",
+    "defaultRate":"1000",
+    "email":"jenny43192@bitofee.com",
+    "confirmemail":"jenny43192@bitofee.com",
+    "dept1":"Public Department",
+    "dept2":"People department"
+},
+    "selectDepartments2": {
+    "Dept1": "Public Department",
+    "Dept2": "People department"  
+}
+}
+
+
+

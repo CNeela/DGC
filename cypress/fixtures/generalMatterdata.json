@@ -1,0 +1,257 @@
+{
+    "matterDetails":{
+        "caseTitle":"New Law and Audit",
+        "caseNumber":"ASV456"
+    },
+
+    "matterDetails1":{
+        "caseTitle":"New Law and Audit",
+        "caseNumber":"ASV456",
+        "stDate":" 23 "
+    },
+    "matterDetails2":{
+        "caseTitle":"New Law and Audit",
+        "caseNumber":"ASV456",
+        "stDate":" 23 ",
+        "EndDate":" 28 "
+},
+    "matterDetails3":{
+    "caseTitle":"New Law and Audit",
+    "caseNumber":"ASV456",
+    "descriptionText":"Inspire your LLB Law personal statement with our UCAS examples and learn from previous students who have already applied to university."
+
+
+},
+    "matterDetails4":{
+    "caseTitle":"New Law and Audit",
+    "caseNumber":"ASV456",
+    "matterType":"General Matter"
+    },
+
+    "matterDetails5":{
+        "caseTitle":"New Law and Audit",
+        "caseNumber":"ASV456",
+        "priority":"High"
+},
+    "matterDetails6":{
+    "caseTitle":"New Law and Audit",
+    "caseNumber":"ASV456",
+    "priority":"Medium"
+},
+    "matterDetails7":{
+    "caseTitle":"New Law and Audit",
+    "caseNumber":"ASV456",
+    "priority":"Low"
+},
+    "matterDetails8":{
+    "caseTitle":"New Law and Audit",
+    "caseNumber":"ASV456",
+    "statusSelect":"Active"
+},
+    "matterDetails9":{
+    "caseTitle":"New Law and Audit",
+    "caseNumber":"ASV456",
+    "statusSelect":"Pending"
+},
+    "matterDetails10":{
+    "caseTitle":"New Law and Audit",
+    "caseNumber":"ASV456"
+}, 
+    "matterDetails11":{
+    "caseTitle":"New Law and Audit",
+    "caseNumber":"ASV456",
+    "department1":"Corporative Department",
+    "department2":"Corporate Matters"
+
+},
+     "departnamelist":{
+        "name1":"Corporative Department",
+        "name2":"Corporate Matters"
+     },
+     "matterDetails12":{
+        "caseTitle":"New Law and Audit",
+        "caseNumber":"ASV456",
+        "clientName1":"Raj Associates",
+        "clientName2": "The Speier Law Firm"
+     },
+     "clientnamelist":{
+        "name1": "Raj Associates",
+        "name2":"The Speier Law Firm"
+     },
+     "matterDetails13":{
+        "caseTitle":"New Law and Audit",
+        "caseNumber":"ASV456",
+        "member1":"Govind Patel",
+        "member2":"Rika"
+     },
+     "memberlist":{
+        "name1":"Govind Patel",
+        "name2":"Rika"
+     },
+     "matterDetails16":{
+        "caseTitle":"New Law and Audit",
+        "caseNumber":"ASV456",
+        "department1":"Corporative Department",
+        "department2":"Corporate Matters"
+     },
+     
+        "matterDetails17":{
+            "caseTitle":"New Law and Audit",
+            "caseNumber":"ASV456",
+            "clientName1":"Raj Associates",
+            "clientName2":"The Speier Law Firm" 
+     },
+     "matterDetails18":{
+        "caseTitle":"New Law and Audit",
+        "caseNumber":"ASV456",
+        "TMname1": "Govind Patel",
+        "TMname2":"Rika"
+    }, 
+       "doclist":{
+        "name1":"corporative department Document",
+        "name2":"Corporate Matters - Internal matter"
+       },
+       "matterDetails19":{
+        "caseTitle":"New Law and Audit",
+        "caseNumber":"ASV456",
+        "text":"Select All",
+        "doc1": "Corporate Matters - Internal matter",
+        "doc2":"corporative department Document"
+}, 
+    "matterDetails20":{
+    "caseTitle":"New Law and Audit",
+    "caseNumber":"ASV456",
+    "depart1":"Corporative Department",
+    "depart2":"Corporate Matters"
+
+},
+"departnamelist1":{
+    "name1":"Corporative Department",
+    "name2":"Corporate Matters",
+    "name3": "AAM",
+    "name4":"SuperUser"
+},
+"matterDetails21":{
+    "caseTitle":"New Law and Audit",
+    "caseNumber":"ASV456"
+},
+"matterDetails22":{
+    "caseTitle":"New Law and Audit",
+    "caseNumber":"ASV456"
+},
+"tm":{
+    "name1":"Rika",
+    "name2":"Govind Patel",
+    "name3":"Rika TM"
+},
+"matterDetails23":{
+    "caseTitle":"New Law and Audit",
+    "caseNumber":"ASV456"
+},
+"doc":{
+    "name1":"Practice Head KPIs – 1",
+    "name2":"Practice Head KPIs",
+    "name3":"Admin & Account management - My Day – 1",
+    "name4":"Practice Head - My Day – 1"
+},
+"matterDetails24":{
+    "caseTitle":"New Law and Audit2",
+    "caseNumber":"ASV456"
+    
+},
+"matterDetails25":{
+    "caseTitle":"New Law and Audit3",
+    "caseNumber":"ASV456"
+},
+"matterDetails26":{
+    "caseTitle":"New Law and Audit4",
+    "caseNumber":"ASV456"
+}, 
+"matterDetails27":{
+    "caseTitle":"New Law and Audit5",
+    "caseNumber":"ASV456"
+},
+"matterDetails28":{
+    "caseTitle":"New Law and Audit6",
+    "caseNumber":"ASV456"
+},
+"matterDetails29":{
+    "caseTitle":"New Law and Audit7",
+    "caseNumber":"ASV456"
+},
+"matterDetails30":{
+    "caseTitle":"New Law and Audit8",
+    "caseNumber":"ASV456"
+},
+"matterDetails31":{
+    "caseTitle":"New Law and Audit9",
+    "caseNumber":"ASV456",
+    "stDate":" 23 "
+
+}, 
+"matterDetails32":{
+    "caseTitle":"New Law and Audit10",
+    "caseNumber":"ASV456",
+    "stDate":" 23 "
+},
+"matterDetails33":{
+    "caseTitle":"New Law and Audit11",
+    "caseNumber":"ASV456",
+    "stDate":" 23 "
+},
+"matterDetails34":{
+    "caseTitle":"New Law and Audit12",
+    "caseNumber":"ASV456",
+    "stDate":" 23 "
+},
+
+"matterDetails35":{
+    "caseTitle":"New Law and Audit13",
+    "caseNumber":"ASV456",
+    "stDate":" 23 "
+},
+"matterDetails36":{
+    "caseTitle":"New Law and Audit14",
+    "caseNumber":"ASV456",
+    "stDate":" 23 "
+},
+"matterDetails37":{
+    "caseTitle":"New Law and Audit15",
+    "caseNumber":"ASV456",
+    "stDate":" 23 "
+},
+"matterDetails38":{
+    "caseTitle":"New Law and Audit16",
+    "caseNumber":"ASV456",
+    "EndDate":" 28 "
+},
+"matterDetails39":{
+    "caseTitle":"New Law and Audit17",
+    "caseNumber":"ASV456",
+    "EndDate":" 28 "
+},
+"matterDetails40":{
+    "caseTitle":"New Law and Audit18",
+    "caseNumber":"ASV456",
+    "EndDate":" 28 "
+},
+"matterDetails41":{
+    "caseTitle":"New Law and Audit19",
+    "caseNumber":"ASV456",
+    "EndDate":" 28 "
+}
+
+
+
+}
+
+     
+     
+
+    
+
+     
+     
+     
+
+

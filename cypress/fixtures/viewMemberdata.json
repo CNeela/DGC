@@ -1,0 +1,107 @@
+{
+    "memberDetails":{
+    "tmName":"Jenny",
+    "changeName":"John",
+    "nameAssert":"John"
+    },
+    "memberDetails1":{
+    "tmName":"John",
+    "changeDesignation":"Lawyer"
+        
+},
+    "memberDetails2":{
+    "tmName":"John",
+    "changeEmail":"vasej19814@fkcod.com",
+    "changeConfirmEmail":"vasej19814@fkcod.com"
+        
+}, 
+    "memberDetails3":{
+    "tmName":"John",
+    "defaultRate":"1500"
+
+},
+    "memberDetails4":{
+    "tmName":"John",
+    "changeEmail": "vasej19814@fkcod"
+},
+    "memberDetails5":{
+    "tmName":"John",
+    "defaultCurrency":"JapaneseYen(JPY)"
+},
+    "memberDetails6":{
+    "tmName":"John"
+    },
+    "memberDetails7":{
+        "tmName":"John"
+    },
+    "memberDetails8":{
+        "tmName":"John"
+    },
+    "memberDetails9":{
+        "tmName":"John"
+    },
+        "memberDetails10":{
+        "tmName":"John"
+    },
+
+    "memberDetails11":{
+        "tmName":"John",
+        "Department1":"Intellectual Law",
+        "Department2":"New Dept Tests"
+    },
+
+    "selectDepartments": {
+        "Dept1": "Intellectual Law",
+        "Dept2": "New Dept Tests"
+        
+    },
+     "memberDetails12":{
+     "tmName":"John",
+     "Department1":"People department",
+    "Department2":"Public Department"
+    },
+    "unSelectDepartments": {
+    "Dept1": "People department",
+    "Dept2": "Public Department" 
+    },
+        "memberDetails13":{
+        "tmName":"John",
+       "Department1":"People department",
+       "Department2":"Public Department"
+       },
+       "selectDepartments1": {
+        "Dept1": "People department",
+        "Dept2": "Public Department"
+        
+    },
+    "memberDetails14":{
+        "tmName":"John"
+    },
+
+        "memberDetails15":{
+        "tmName":"John",
+        "changeEmail":"joxito6692@ikanid.com",
+        "changeConfirmEmail":"joxito6692@ikanid.com"
+
+
+},
+    "memberDetails16":{
+    "tmName":"John"
+}, 
+    "memberDetails17":{
+    "tmName":"John"
+},
+    "memberDetails18":{
+    "tmName":"John"
+    },
+    "memberDetails19":{
+        "tmName":"Jane"
+},
+
+    "memberDetails20":{
+    "tmName":"Jane"
+},
+    "memberDetails21":{
+    "tmName":"Jane"
+}
+}
