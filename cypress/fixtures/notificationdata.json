@@ -1,0 +1,26 @@
+{
+    "searchFirmName":{
+        "firmname":"British Bespoke Boutique"
+    },
+    "DocumentName":{
+        "docName":"tentative document",
+        "shareText":"Your shared folder with British Bespoke Boutique has been updated"
+    },
+
+    "departnamelist":{
+        "name1":"Corporative Department",
+        "name2":"Corporate Matters"
+    },
+    "DocsName":{
+        "docName":"Corporative document for testing"
+    },
+    "DeleteNotify":{
+        "deleteText":"Corporative document for testing delete request is pending approval."
+    },
+
+    "notifylist":{
+        "name1":"1715745277761 delete request is pending approval."
+        
+    }
+    
+}
