@@ -1,0 +1,32 @@
+{
+    "common":{
+        "eventTask1":"Conference",
+        "eventTask2":"Holidays",
+        "eventTask3":"Research",
+        "eventTask4":"Training",
+        "eventTask5":"Holidays"
+        
+
+    },
+    "test1":{
+        "eventDate":"07/27/2024",
+        "stTime":"06:00",
+        "endTime":"06:15",
+        "viewEventDate":"27",
+        "meetingName":"6:00 AM Conference",
+        "eventMonthandDate":"Mon Jul 27 2024 : 6:00 AM - 6:15 AM",
+        "location":"Bangalore",
+        "meetAgenda":"Keep your meetings on time and on track—put together an agenda ahead of time using designer-created customizable templates.",
+        "meetingLink":"https://meet.google.com/mvp-hcpd-eaq",
+        "dialNumber":"9678987654",
+        "firmName":"British Bespoke Boutique",
+        "tmName1":"Rika ",
+        "clientName1":"British Bespoke Boutique ",
+        "clientTmName1":"Harper GH "
+        
+
+         
+    }
+    
+
+}
