@@ -41,7 +41,7 @@ describe('eventCreation', ()=>{
         createEvent.meetingAgenda(data.test1.meetAgenda)
         cy.scrollTo('bottom');
         
-        createEvent.teamMembers(data.test1.tmName1);
+        createEvent.teamMembers(data.test1.tmName1a);
         cy.wait(2000);
         createEvent.addBtnInTeamMember();
         createEvent.externalCounselSelect(data.test1.firmName);
