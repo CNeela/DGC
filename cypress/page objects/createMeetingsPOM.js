@@ -94,7 +94,7 @@ class createEvent{
     }
     addBtnInTeamMember(){
         cy.wait(2000);
-        cy.xpath("(//input[@value='ADD'])[1]").click().click();
+        cy.get(':nth-child(1) > .row > .col-sm-12 > .container > .form-group > #judge > .btnfile').click().click();
     }
     externalCounselSelect(excName){
         this.WebElements.selectExternalCounsel().select(excName);
@@ -103,7 +103,8 @@ class createEvent{
         this.WebElements.searchExternalCounselMembers().type(teamMember);
     }
     addBtnInExternalCounsel(){
-        this.WebElements.externalCounselAddBtn().click();
+        cy.wait(2000);
+        cy.get('.form-group > .btnfile').click().click();
     }
     viewChangesBtnClick(){
         cy.xpath("//button[text()='View Changes']").click();
